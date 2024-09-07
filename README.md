@@ -1,4 +1,3 @@
-```markdown
 # Money Manager
 
 A simple and efficient **Money Manager** application built using Flutter. This app helps users keep track of their financial activities by allowing them to add and categorize transactions as income or expenses. It provides a clear overview of the user's financial status, helping them manage their money better.
