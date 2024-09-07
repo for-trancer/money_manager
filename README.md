@@ -9,7 +9,10 @@ A simple and efficient **Money Manager** application built using Flutter. This a
 - **Intuitive UI**: Simple and user-friendly interface for easy navigation.
 
 ## Screenshots
-_(Add screenshots here if available)_
+![Home Screen](assets/screenshots/main-screen.png)
+![Categories Screen](assets/screenshots/categories.png)
+![Add Category](assets/screenshots/add-category.png)
+![Add Transactions](assets/screenshots/add-transaction.png)
 
 ## Technologies Used
 
