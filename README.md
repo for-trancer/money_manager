@@ -1,5 +1,3 @@
-Here’s the full `README.md` file for your **Money Manager Flutter App**:
-
 ```markdown
 # Money Manager
 
